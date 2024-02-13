@@ -1,0 +1,12 @@
+
+__pycache__/
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+*.txt 
+!ice_age_script.txt
